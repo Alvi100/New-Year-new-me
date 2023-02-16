@@ -1,0 +1,94 @@
+.as{
+ height: 250px;
+ width:360px;
+ background-color:;
+}
+
+.qw{
+ height:250px;
+ width: 360px;
+ background-color: white;
+
+}
+
+.qw img{
+background-color: ;
+margin-left: 50px;
+padding-top: 20px;
+height: 200px;
+width: 150px;
+position: relative;
+display: flex;
+}
+
+.sec h1{
+background-color: blue;
+txt-align: right;
+margin-left: 150px auto;
+font-size: 5px;
+display:flex;
+position: relative;
+padding-left: 105px;
+}
+
+
+.ab h1{
+ background-color: ;
+ font-size:20px;
+ text-align:right;
+ padding-left: 105px;
+ padding-top: 15px;
+ display: flex;
+
+}
+
+.ab h6{
+  font-size: 5px;
+  display: flex;
+  text-align: right;
+  padding-left: 80px;
+  margin-right: 10px;
+}
+
+body{
+ background-color: #c9c6c5;
+ margin: 0px;
+ padding: 0px;
+ display: relative;
+}
+
+.ab{
+    display: flex;
+    padding-top: 30px;
+    display: block;
+    
+}
+
+.sec {
+ display: flex;
+ diplay: block;
+
+}
+.as img{
+   float:left;
+   padding-top:50px;
+   height:170px;
+   width:100px;
+   margin-left: 10px;
+   display: inline-block;
+   position: relative;
+}
+
+button{
+ color: white;
+ text-align:right ;
+ height: 30px;
+ width: 80px;
+ margin:10px;
+  padding-left:0px;
+  position: relative;
+  float: right;
+  border: none;
+  border-radius:5px;
+  background-color: #f58742;
+}
